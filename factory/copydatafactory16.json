@@ -1,0 +1,9 @@
+{
+	"name": "copydatafactory16",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0253615c-3237-4e12-90e7-31771efe3cd3",
+		"tenantId": "8d281d1d-9c4d-4bf7-b16e-032d15de9f6c"
+	}
+}
